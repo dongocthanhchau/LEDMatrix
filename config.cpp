@@ -8,6 +8,7 @@ void spiffBegin(void)
     return;
   }
 }
+
 String getSPIFF(String fileloc)
 {
   //Serial.println("GOT DATA");
